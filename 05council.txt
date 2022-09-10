@@ -1,0 +1,22 @@
+OTA Liaison
+Chairman
+Assistant Chairman
+Executive Lead (O5-0)
+Council Lead (O5-1)
+Members (O5-2 to O5-13)
+Underdog Council (O5-14 to O5-20)
+  Under Council Chairman (O5-14)
+  Under Council Executive Lead (O5-15)
+  Under Council Lead (O5-16)
+ALPHA-1 Taskforce Commissioner
+Council Labor Staff
+  Head of Department
+  Assistant Head
+  Supervisor
+  Veteran Laborer
+  Senior Laborer
+  Laborer
+  Intern
+  Class D5 Personnel
+Intern
+Trainee
